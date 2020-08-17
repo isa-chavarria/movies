@@ -3,7 +3,7 @@ actorId= "ian"
 title= "Ian McKellen"
 birth= "25 de mayo de 1939 (81 años)"
 nationality= "Inglaterra"
-moviesId= ["movie1"]
+moviesId= [ "movie1" , "senor"]
 +++
 
 

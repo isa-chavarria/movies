@@ -3,5 +3,5 @@ actorId: {{ replace .Name "-" " " }}
 title: 
 nationality:
 birth:
-movies: 
+movies: {{ delimit .Params.movies ", " " and " }}
 ---
