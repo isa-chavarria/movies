@@ -6,7 +6,7 @@ year= 2020
 language= "ENGLISH"
 country="United States"
 budget= "need to be defined"
-actorId= "ryan"
+actorId= [ "ryan"]
 directorId= "shawn"
 +++
 

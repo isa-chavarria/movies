@@ -5,6 +5,6 @@ year:
 language: ENGLISH
 country:
 budget:
-actorId: 
+actorId: {{ delimit .Params.movies ", " " and " }}
 directorId: 
 ---

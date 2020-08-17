@@ -30,13 +30,14 @@
             <td>{{ .Params.budget}}</td>
         </tr>
         <tr>
-            <td>Actors </td>
+            <td>Movies</td>
             <td>
-                {{ $t := $.Site.GetPage .Params.actorId}}
-                <a href="/actors/{{ .Params.actorId}}/">{{ $t.Title }}</a>
+                {{ range .Params.actorId }}
+                    {{ $t := $.Site.GetPage .}}
+                    <a href="/actors/{{ .}}">{{ $t.Title }}</a>
+                {{ end }}
             </td>
-        </tr>
-        <tr>
+           </tr>
             <td>Director</td>
             <td>
                 {{ $t := $.Site.GetPage .Params.directorId}}

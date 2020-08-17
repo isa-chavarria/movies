@@ -5,7 +5,7 @@ year= 2001
 language= "ENGLISH"
 country="Nueva Zelanda"
 budget= "$93 000 000"
-actorId= "ian"
+actorId= [ "ian"]
 directorId= "peter"
 +++
 

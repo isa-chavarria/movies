@@ -5,7 +5,7 @@ year= 2006
 language= "ENGLISH"
 country="United states of America"
 budget= "$204 000 000"
-actorId= "brandon"
+actorId= [ "brandon"]
 directorId= "bryan"
 +++
 

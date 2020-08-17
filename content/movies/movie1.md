@@ -5,7 +5,7 @@ year= 2000
 language= "ENGLISH"
 country="United states of America"
 budget= "75 000 000"
-actorId= "ian"
+actorId=  [ "ian", "hugh", "patrick"]
 directorId= "bryan"
 +++
 

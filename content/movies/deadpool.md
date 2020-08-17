@@ -5,7 +5,7 @@ year= 2001
 language= "ENGLISH"
 country="Nueva Zelanda"
 budget= "$204 000 000"
-actorId= "ryan"
+actorId= [ "ryan"]
 directorId= "tim"
 +++
 
